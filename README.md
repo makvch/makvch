@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Stanislav 👋</h1>
+<h1 align="center">Hello, I'm Maksim 👋</h1>
 
 <div align="center">
   <h3>Backend Developer (Go) | High-Load Systems</h3>
@@ -7,7 +7,6 @@
 <br/>
 
 <div align="center">
-  <!-- Здесь можно вставить смешную или крутую гифку. Пока стоит стандартная -->
   <img src="https://raw.githubusercontent.com/7wq/7wq/main/coding.gif" width="300" align="right" alt="Coding GIF">
 
   <p align="left">
@@ -15,7 +14,7 @@
     🏗️ <b>Currently working on:</b> Microservices, Event-Driven Architecture, and ML integrations.<br><br>
     ⚙️ <b>My toolkit includes:</b> Go, PostgreSQL, Redis, RabbitMQ, gRPC, and Docker.<br><br>
     📈 <b>Focused on:</b> Low Latency (TTFB), Graceful Degradation, and fault-tolerant systems.<br><br>
-    📫 <b>How to reach me:</b> <a href="https://t.me/crispybaIIs">Telegram</a>
+    📫 <b>How to reach me:</b> <a href="https://t.me/ТВОЙ_ТЕЛЕГРАМ">Telegram</a>
   </p>
 </div>
 
@@ -33,16 +32,6 @@
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-</div>
-
-<br>
-<hr>
-
-<h3 align="center">Stats 📈</h3>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=makvch&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub stats" height="195"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=makvch&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" height="195"/>
 </div>
 
 <br>
