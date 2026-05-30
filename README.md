@@ -14,7 +14,7 @@
     🏗️ <b>Currently working on:</b> Microservices, Event-Driven Architecture, and ML integrations.<br><br>
     ⚙️ <b>My toolkit includes:</b> Go, PostgreSQL, Redis, RabbitMQ, gRPC, and Docker.<br><br>
     📈 <b>Focused on:</b> Low Latency (TTFB), Graceful Degradation, and fault-tolerant systems.<br><br>
-    📫 <b>How to reach me:</b> <a href="https://t.me/ТВОЙ_ТЕЛЕГРАМ">Telegram</a>
+    📫 <b>How to reach me:</b> <a href="https://t.me/crispybaIIs">Telegram</a>
   </p>
 </div>
 
