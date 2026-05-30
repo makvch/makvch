@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Maksim 👋</h1>
+<h1 align="center">Hello, I'm Stanislav 👋</h1>
 
 <div align="center">
   <h3>Backend Developer (Go) | High-Load Systems</h3>
