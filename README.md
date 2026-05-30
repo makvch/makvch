@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Maksim 👋</h1>
+<h1 align="center">Hello, I'm Stanislav 👋</h1>
 
 <div align="center">
   <h3>Backend Developer (Go) | High-Load Systems</h3>
@@ -15,7 +15,7 @@
     🏗️ <b>Currently working on:</b> Microservices, Event-Driven Architecture, and ML integrations.<br><br>
     ⚙️ <b>My toolkit includes:</b> Go, PostgreSQL, Redis, RabbitMQ, gRPC, and Docker.<br><br>
     📈 <b>Focused on:</b> Low Latency (TTFB), Graceful Degradation, and fault-tolerant systems.<br><br>
-    📫 <b>How to reach me:</b> <a href="https://t.me/ТВОЙ_ТЕЛЕГРАМ">Telegram</a>
+    📫 <b>How to reach me:</b> <a href="https://t.me/crispybaIIs">Telegram</a>
   </p>
 </div>
 
