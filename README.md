@@ -54,9 +54,9 @@
 <div align="center">
   <!-- Сюда можешь вставить ссылки на свои сертификаты -->
   <a href="#">
-    <img src="https://via.placeholder.com/400x250/222222/8a2be2?text=Your+Certificate+1" width="400" alt="Certificate 1">
+    <img src="https://github.com/makvch/makvch/blob/main/image.png?raw=true" width="400" alt="Certificate 1">
   </a>
-  <a href="#">
+  <a href="https://github.com/makvch/makvch/blob/main/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC_RU_%D0%9F%D0%BE%D0%B1%D0%BE%D0%BB%D1%8C_2026-16867-041-1.pdf">
     <img src="https://via.placeholder.com/400x250/222222/8a2be2?text=Your+Certificate+2" width="400" alt="Certificate 2">
   </a>
 </div>
