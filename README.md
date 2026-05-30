@@ -40,9 +40,8 @@
 
 <h3 align="center">Stats 📈</h3>
 
-<!-- Графики статистики (В фиолетовом стиле, как на скрине) -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=makvch&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="makvch's GitHub stats" height="195"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=makvch&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub stats" height="195"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=makvch&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" height="195"/>
 </div>
 
@@ -52,11 +51,7 @@
 <h3 align="center">My certificates 📜</h3>
 
 <div align="center">
-  <!-- Сюда можешь вставить ссылки на свои сертификаты -->
-  <a href="#">
-    <img src="https://github.com/makvch/makvch/blob/main/image.png?raw=true" width="400" alt="Certificate 1">
-  </a>
   <a href="https://github.com/makvch/makvch/blob/main/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC_RU_%D0%9F%D0%BE%D0%B1%D0%BE%D0%BB%D1%8C_2026-16867-041-1.pdf">
-    <img src="https://via.placeholder.com/400x250/222222/8a2be2?text=Your+Certificate+2" width="400" alt="Certificate 2">
+    <img src="https://github.com/makvch/makvch/blob/main/image.png?raw=true" width="850" alt="Диплом Яндекс Практикум">
   </a>
 </div>
